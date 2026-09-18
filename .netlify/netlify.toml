@@ -1,0 +1,52 @@
+plugins = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "c:\\Users\\jibra\\Desktop\\1\\20 blogs\\site-empire-factory\\output\\wow-mythic-plus-mythic-raiding-hub"
+publishOrigin = "default"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
+
+[[headers]]
+for = "/*"
+
+[headers.values]
+Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+X-Content-Type-Options = "nosniff"
+X-Frame-Options = "DENY"
+Referrer-Policy = "strict-origin-when-cross-origin"
+Permissions-Policy = "geolocation=(), microphone=(), camera=()"
+Cache-Control = "public, max-age=3600"
+
+[[headers]]
+for = "/og-preview.png"
+
+[headers.values]
+Cache-Control = "public, max-age=31536000, immutable"
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200.0
+force = false
+
+[redirects.query]
+
+[redirects.conditions]
+
+[redirects.headers]
