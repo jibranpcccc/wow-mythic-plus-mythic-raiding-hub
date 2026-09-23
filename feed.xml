@@ -4,10 +4,17 @@
     <title>World of Warcraft Mythic+ &amp; Mythic Raiding Hub</title>
     <link>https://wow-mythic-plus-mythic-raiding-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 22 Sep 2026 06:08:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:08:29 GMT</lastBuildDate>
     <atom:link href="https://wow-mythic-plus-mythic-raiding-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                        <item>
+                            <item>
+      <title>📅 Today's Fresh Pick: Next.js Developers Discord (Discord)</title>
+      <link>https://discord.gg/nextjs</link>
+      <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-discord-20260923-1-2026-09-23</guid>
+      <pubDate>Wed, 23 Sep 2026 06:08:29 GMT</pubDate>
+      <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: Official community Discord for Vercel Next.js developers, Server Components, and App Router architectures.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Devcord Web Developers (Discord)</title>
       <link>https://discord.gg/devcord</link>
       <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-discord-20260922-1-2026-09-22</guid>
