@@ -4,10 +4,17 @@
     <title>World of Warcraft Mythic+ &amp; Mythic Raiding Hub</title>
     <link>https://wow-mythic-plus-mythic-raiding-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 27 Sep 2026 06:08:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:09:08 GMT</lastBuildDate>
     <atom:link href="https://wow-mythic-plus-mythic-raiding-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                        <item>
+                                            <item>
+      <title>📅 Today's Fresh Pick: Next.js GitHub Discussions (GitHub)</title>
+      <link>https://github.com/vercel/next.js/discussions</link>
+      <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-github-20260929-1-2026-09-29</guid>
+      <pubDate>Tue, 29 Sep 2026 06:09:08 GMT</pubDate>
+      <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Rust Language GitHub Discussions (GitHub)</title>
       <link>https://users.rust-lang.org</link>
       <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-github-20260927-1-2026-09-27</guid>
