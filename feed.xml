@@ -4,10 +4,17 @@
     <title>World of Warcraft Mythic+ &amp; Mythic Raiding Hub</title>
     <link>https://wow-mythic-plus-mythic-raiding-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 06:08:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:08:43 GMT</lastBuildDate>
     <atom:link href="https://wow-mythic-plus-mythic-raiding-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: TechCrunch Official Channel (Telegram)</title>
+      <link>https://t.me/techcrunch</link>
+      <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-telegram-20261018-1-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 06:08:43 GMT</pubDate>
+      <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: Breaking technology news, startup funding rounds, Big Tech earnings, and Silicon Valley analysis.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Technology &amp; Science Discord (Discord)</title>
       <link>https://discord.gg/tech</link>
       <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-discord-20261017-1-2026-10-17</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-reddit-20260918-1-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 06:22:07 GMT</pubDate>
       <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
-    </item>
-<item>
-      <title>World of Warcraft Mythic+ &amp; Mythic Raiding Hub Initial Release</title>
-      <link>https://wow-mythic-plus-mythic-raiding-hub.netlify.app/</link>
-      <pubDate>Fri, 18 Sep 2026 06:01:10 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
