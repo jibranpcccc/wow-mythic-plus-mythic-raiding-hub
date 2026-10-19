@@ -4,10 +4,17 @@
     <title>World of Warcraft Mythic+ &amp; Mythic Raiding Hub</title>
     <link>https://wow-mythic-plus-mythic-raiding-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 18 Oct 2026 06:08:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:08:50 GMT</lastBuildDate>
     <atom:link href="https://wow-mythic-plus-mythic-raiding-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                        <item>
+                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-forum-20261019-1-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 06:08:50 GMT</pubDate>
+      <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: TechCrunch Official Channel (Telegram)</title>
       <link>https://t.me/techcrunch</link>
       <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-telegram-20261018-1-2026-10-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-discord-20260919-1-2026-09-19</guid>
       <pubDate>Sat, 19 Sep 2026 06:08:05 GMT</pubDate>
       <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: Active community for advanced TypeScript types, generics, compiler plugins, and framework integrations.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
-      <link>https://www.reddit.com/r/typescript/</link>
-      <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-reddit-20260918-1-2026-09-18</guid>
-      <pubDate>Fri, 18 Sep 2026 06:22:07 GMT</pubDate>
-      <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: Subreddit focused on TypeScript type systems, compiler APIs, design patterns, and enterprise codebases.</description>
     </item>
   </channel>
 </rss>
