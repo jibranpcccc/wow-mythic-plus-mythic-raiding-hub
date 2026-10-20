@@ -4,10 +4,17 @@
     <title>World of Warcraft Mythic+ &amp; Mythic Raiding Hub</title>
     <link>https://wow-mythic-plus-mythic-raiding-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 19 Oct 2026 06:08:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:32:58 GMT</lastBuildDate>
     <atom:link href="https://wow-mythic-plus-mythic-raiding-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                            <item>
+                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-forum-20261019-1-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 06:32:58 GMT</pubDate>
+      <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-forum-20261019-1-2026-10-19</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-reddit-20260920-1-2026-09-20</guid>
       <pubDate>Sun, 20 Sep 2026 06:11:34 GMT</pubDate>
       <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: Discussions on modern C++ (C++17/20/23), memory models, template metaprogramming, and graphics pipelines.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: TypeScript Community Discord (Discord)</title>
-      <link>https://discord.gg/typescript</link>
-      <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-discord-20260919-1-2026-09-19</guid>
-      <pubDate>Sat, 19 Sep 2026 06:08:05 GMT</pubDate>
-      <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: Active community for advanced TypeScript types, generics, compiler plugins, and framework integrations.</description>
     </item>
   </channel>
 </rss>
