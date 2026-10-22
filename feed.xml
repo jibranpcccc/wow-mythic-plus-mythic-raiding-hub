@@ -4,10 +4,17 @@
     <title>World of Warcraft Mythic+ &amp; Mythic Raiding Hub</title>
     <link>https://wow-mythic-plus-mythic-raiding-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 06:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:08:59 GMT</lastBuildDate>
     <atom:link href="https://wow-mythic-plus-mythic-raiding-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                    <item>
+                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-forum-20261019-1-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 06:08:59 GMT</pubDate>
+      <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-forum-20261019-1-2026-10-21</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-discord-20260922-1-2026-09-22</guid>
       <pubDate>Tue, 22 Sep 2026 06:08:14 GMT</pubDate>
       <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: Friendly web development and programming community covering modern web stacks, design, and career growth.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/webdev Builders Hub (Reddit)</title>
-      <link>https://www.reddit.com/r/webdev/</link>
-      <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-reddit-20260921-1-2026-09-21</guid>
-      <pubDate>Mon, 21 Sep 2026 06:41:05 GMT</pubDate>
-      <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: A community dedicated to all things web development, client and server-side architectures, and UI/UX design.</description>
     </item>
   </channel>
 </rss>
