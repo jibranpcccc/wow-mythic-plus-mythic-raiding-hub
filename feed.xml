@@ -4,10 +4,17 @@
     <title>World of Warcraft Mythic+ &amp; Mythic Raiding Hub</title>
     <link>https://wow-mythic-plus-mythic-raiding-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 23 Oct 2026 06:12:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:08:53 GMT</lastBuildDate>
     <atom:link href="https://wow-mythic-plus-mythic-raiding-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                            <item>
+                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-forum-20261019-1-2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 06:08:53 GMT</pubDate>
+      <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-forum-20261019-1-2026-10-23</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-discord-20260924-1-2026-09-24</guid>
       <pubDate>Thu, 24 Sep 2026 06:08:09 GMT</pubDate>
       <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: The official Discord community for Vue.js, Nuxt, Vite, Pinia, and frontend ecosystem tools.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Next.js Developers Discord (Discord)</title>
-      <link>https://discord.gg/nextjs</link>
-      <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-discord-20260923-1-2026-09-23</guid>
-      <pubDate>Wed, 23 Sep 2026 06:08:29 GMT</pubDate>
-      <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: Official community Discord for Vercel Next.js developers, Server Components, and App Router architectures.</description>
     </item>
   </channel>
 </rss>
