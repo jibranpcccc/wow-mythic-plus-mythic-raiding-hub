@@ -4,10 +4,17 @@
     <title>World of Warcraft Mythic+ &amp; Mythic Raiding Hub</title>
     <link>https://wow-mythic-plus-mythic-raiding-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 24 Oct 2026 06:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:08:58 GMT</lastBuildDate>
     <atom:link href="https://wow-mythic-plus-mythic-raiding-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                <item>
+                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-forum-20261019-1-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 06:08:58 GMT</pubDate>
+      <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-forum-20261019-1-2026-10-24</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-discord-20260925-1-2026-09-25</guid>
       <pubDate>Fri, 25 Sep 2026 06:08:40 GMT</pubDate>
       <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: Official community for Tailwind CSS utility-first design, component architectures, and responsive layout styling.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Vue Land Community Discord (Discord)</title>
-      <link>https://discord.gg/vue</link>
-      <guid isPermaLink="false">https://wow-mythic-plus-mythic-raiding-hub.netlify.app/#wow-mythic-plus-mythic-raiding-hub-discord-20260924-1-2026-09-24</guid>
-      <pubDate>Thu, 24 Sep 2026 06:08:09 GMT</pubDate>
-      <description>Newly verified community added to World of Warcraft Mythic+ &amp; Mythic Raiding Hub: The official Discord community for Vue.js, Nuxt, Vite, Pinia, and frontend ecosystem tools.</description>
     </item>
   </channel>
 </rss>
