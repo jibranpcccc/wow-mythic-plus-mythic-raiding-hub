@@ -1,5 +1,24 @@
 [
   {
+    "id": "world-of-warcraft-mythic-mythic-raiding-hub-reddit-1",
+    "title": "r/MachineLearning Research",
+    "platform": "Reddit",
+    "category": "Machine Learning",
+    "memberCount": "2,900,000+ members",
+    "description": "Premier forum for machine learning research, theoretical papers, benchmark debates, and open-source models.",
+    "joinUrl": "https://www.reddit.com/r/MachineLearning/",
+    "tags": [
+      "machine-learning",
+      "ai",
+      "research",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-18"
+  },
+  {
     "id": "wow-mythic-plus-mythic-raiding-hub-forum-20261019-1",
     "title": "Hacker News Community",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -492,24 +511,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-18"
-  },
-  {
-    "id": "world-of-warcraft-mythic-mythic-raiding-hub-reddit-1",
-    "title": "r/MachineLearning Research",
-    "platform": "Reddit",
-    "category": "Machine Learning",
-    "memberCount": "2,900,000+ members",
-    "description": "Premier forum for machine learning research, theoretical papers, benchmark debates, and open-source models.",
-    "joinUrl": "https://www.reddit.com/r/MachineLearning/",
-    "tags": [
-      "machine-learning",
-      "ai",
-      "research",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "world-of-warcraft-mythic-mythic-raiding-hub-reddit-2",
