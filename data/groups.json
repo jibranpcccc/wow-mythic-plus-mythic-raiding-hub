@@ -1,5 +1,24 @@
 [
   {
+    "id": "world-of-warcraft-mythic-mythic-raiding-hub-discord-4",
+    "title": "OpenAI Official Discord",
+    "platform": "Discord",
+    "category": "Generative AI",
+    "memberCount": "550,000+ members",
+    "description": "Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.",
+    "joinUrl": "https://discord.gg/openai",
+    "tags": [
+      "openai",
+      "chatgpt",
+      "api",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21"
+  },
+  {
     "id": "world-of-warcraft-mythic-mythic-raiding-hub-reddit-3",
     "title": "r/ChatGPT AI Community",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20"
   },
   {
@@ -549,24 +568,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-18"
-  },
-  {
-    "id": "world-of-warcraft-mythic-mythic-raiding-hub-discord-4",
-    "title": "OpenAI Official Discord",
-    "platform": "Discord",
-    "category": "Generative AI",
-    "memberCount": "550,000+ members",
-    "description": "Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.",
-    "joinUrl": "https://discord.gg/openai",
-    "tags": [
-      "openai",
-      "chatgpt",
-      "api",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "world-of-warcraft-mythic-mythic-raiding-hub-discord-5",
