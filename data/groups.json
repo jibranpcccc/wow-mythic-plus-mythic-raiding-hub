@@ -1,5 +1,24 @@
 [
   {
+    "id": "world-of-warcraft-mythic-mythic-raiding-hub-discord-6",
+    "title": "Hugging Face Community Discord",
+    "platform": "Discord",
+    "category": "Open Source AI",
+    "memberCount": "140,000+ members",
+    "description": "Hub for the open-source AI community discussing Transformers, Diffusers, model weights, and Hugging Face Spaces.",
+    "joinUrl": "https://discuss.huggingface.co",
+    "tags": [
+      "huggingface",
+      "transformers",
+      "open-source",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "id": "world-of-warcraft-mythic-mythic-raiding-hub-discord-5",
     "title": "Midjourney Official Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-22"
   },
   {
@@ -587,24 +606,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-18"
-  },
-  {
-    "id": "world-of-warcraft-mythic-mythic-raiding-hub-discord-6",
-    "title": "Hugging Face Community Discord",
-    "platform": "Discord",
-    "category": "Open Source AI",
-    "memberCount": "140,000+ members",
-    "description": "Hub for the open-source AI community discussing Transformers, Diffusers, model weights, and Hugging Face Spaces.",
-    "joinUrl": "https://discuss.huggingface.co",
-    "tags": [
-      "huggingface",
-      "transformers",
-      "open-source",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "world-of-warcraft-mythic-mythic-raiding-hub-reddit-7",
