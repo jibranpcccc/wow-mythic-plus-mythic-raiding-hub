@@ -1,5 +1,24 @@
 [
   {
+    "id": "world-of-warcraft-mythic-mythic-raiding-hub-reddit-8",
+    "title": "r/StableDiffusion Local Art",
+    "platform": "Reddit",
+    "category": "Creative AI & Art",
+    "memberCount": "480,000+ members",
+    "description": "Community dedicated to Stable Diffusion checkpoints, LoRAs, ComfyUI workflows, ControlNet, and SDXL rendering.",
+    "joinUrl": "https://www.reddit.com/r/StableDiffusion/",
+    "tags": [
+      "stablediffusion",
+      "comfyui",
+      "ai-art",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "id": "world-of-warcraft-mythic-mythic-raiding-hub-reddit-7",
     "title": "r/Midjourney Prompt Engineering",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -625,24 +644,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-18"
-  },
-  {
-    "id": "world-of-warcraft-mythic-mythic-raiding-hub-reddit-8",
-    "title": "r/StableDiffusion Local Art",
-    "platform": "Reddit",
-    "category": "Creative AI & Art",
-    "memberCount": "480,000+ members",
-    "description": "Community dedicated to Stable Diffusion checkpoints, LoRAs, ComfyUI workflows, ControlNet, and SDXL rendering.",
-    "joinUrl": "https://www.reddit.com/r/StableDiffusion/",
-    "tags": [
-      "stablediffusion",
-      "comfyui",
-      "ai-art",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "world-of-warcraft-mythic-mythic-raiding-hub-telegram-9",
